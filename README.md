@@ -4,3 +4,4 @@
 Используемые библиотеки: <br />
 requests <br />
 pytest <br />
+Тестовый json-файл взят из сайта-тренажера qa-playground: https://release-gs.qa-playground.com/api/v1
